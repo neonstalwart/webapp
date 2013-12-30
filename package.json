@@ -1,6 +1,7 @@
 {
   "name": "webapp",
   "version": "0.0.0",
+  "repository": "https://github.com/neonstalwart/webapp.git",
   "devDependencies": {
     "grunt": "~0.4.1",
     "grunt-dojo": "~0.2.4",
