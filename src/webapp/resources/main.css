@@ -1,0 +1,19 @@
+@import "../../dijit/themes/claro/document.css";
+@import "../../dijit/themes/claro/claro.css";
+
+@import "./widget/NavBar.css";
+@import "./widget/PageWidget.css";
+
+html, body {
+	height: 100%;
+	margin: 0;
+	overflow: hidden;
+	padding: 0;
+}
+
+#main {
+	border: 1px solid #666;
+	margin: 20px auto;
+	height: calc(100% - 42px);
+	width: 900px;
+}

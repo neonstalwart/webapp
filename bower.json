@@ -1,0 +1,10 @@
+{
+  "name": "webapp",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+      "dojo": "~1.9.1",
+      "dijit": "~1.9.1",
+      "util": "dojo-util#~1.9.1"
+  }
+}
