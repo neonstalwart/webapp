@@ -7,6 +7,7 @@ This is a sample single page application built with Dojo.  It is based on the sc
 To install all the dependencies to run the code from source:
 
 1. Clone the [webapp](https://github.com/neonstalwart/webapp) repo
+1. `cd webapp`
 1. `bower install`
 
 Once you have all the dependencies to run from source, you may want to build.  Install the build dependencies
